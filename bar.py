@@ -2,4 +2,4 @@
 
 import foo
 
-foo.y()
+foo.x()

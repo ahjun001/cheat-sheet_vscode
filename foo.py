@@ -2,14 +2,14 @@
 import os
 
 
-def y():
-    y = 1
-    print(y)
+def x():
+    x = 1
+    print(x)
 
 
 def main():
     os.system('clear')
-    y()
+    x()
 
 
 if __name__ == '__main__':
