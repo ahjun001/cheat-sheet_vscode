@@ -14,7 +14,7 @@ def dodo():
 shift = 3
 choice = input("would you like to encode or decode?")
 word = input("Please enter text")
-letters = string.ascii_letters + string.punctuation + string.digits + string.punctuation + string.digitssss
+letters = string.ascii_letters + string.punctuation + string.digits + string.punctuation + string.digits
 encoded = ''
 if (choice == "encode"):
     for letter in word:

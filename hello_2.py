@@ -9,7 +9,7 @@ def ex_1():
     if (a == 1):
         print('Hello World!')
     else:
-        print('Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, Ciao, C')
+        print('Ciao')
 
     def ex_2():
         b = 2
@@ -20,10 +20,10 @@ def ex_1():
 
 
 def ex_3():
+    msg = 'world'
     for i in range(8):
         print(f'Je te l\'ai dit {i} fois')
-        msg = 'world'
-        print(i*f'Hello {msg} ')
+        print(i * f'Hello {msg} ')
 
 
 def main():

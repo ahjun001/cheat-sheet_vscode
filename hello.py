@@ -7,4 +7,4 @@ else:
 
 b = 1
 if b == a:
-    print('ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok ')
+    print('ok')
